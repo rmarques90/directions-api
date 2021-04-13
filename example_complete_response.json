@@ -1,0 +1,432 @@
+{
+  "message": "ok",
+  "data": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": -16.6971472,
+          "lng": -49.23710939999999
+        },
+        "southwest": {
+          "lat": -16.7155511,
+          "lng": -49.2824942
+        }
+      },
+      "copyrights": "Map data ©2021",
+      "legs": [
+        {
+          "distance": {
+            "text": "6,3 km",
+            "value": 6292
+          },
+          "duration": {
+            "text": "15 minutos",
+            "value": 926
+          },
+          "end_address": "Av. Dep. Jamel Cecílio, 3300 - Jardim Goiás, Goiânia - GO, 74810-907, Brasil",
+          "end_location": {
+            "lat": -16.7070124,
+            "lng": -49.2376048
+          },
+          "start_address": "R. C-152, 201 - Jardim America, Goiânia - GO, 74275-120, Brasil",
+          "start_location": {
+            "lat": -16.7144565,
+            "lng": -49.2813247
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 108
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 32
+              },
+              "end_location": {
+                "lat": -16.715411,
+                "lng": -49.2811347
+              },
+              "html_instructions": "Siga na direção <b>sul</b> na <b>R. C-152</b> em direção à <b>Av. T-63</b>",
+              "polyline": {
+                "points": "jp_eBfgxkH|De@"
+              },
+              "start_location": {
+                "lat": -16.7144565,
+                "lng": -49.2813247
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "85 m",
+                "value": 85
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 18
+              },
+              "end_location": {
+                "lat": -16.7155511,
+                "lng": -49.2819213
+              },
+              "html_instructions": "Vire à <b>direita</b> na <b>Av. T-63</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "hv_eB`fxkHDZT`C"
+              },
+              "start_location": {
+                "lat": -16.715411,
+                "lng": -49.2811347
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 328
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 66
+              },
+              "end_location": {
+                "lat": -16.7126543,
+                "lng": -49.2824942
+              },
+              "html_instructions": "Vire à <b>direita</b> na <b>R. C-151</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "dw_eB~jxkHsANgCZ_@D_@DWBgCXaALeAL"
+              },
+              "start_location": {
+                "lat": -16.7155511,
+                "lng": -49.2819213
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,7 km",
+                "value": 655
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 81
+              },
+              "end_location": {
+                "lat": -16.7114369,
+                "lng": -49.27656
+              },
+              "html_instructions": "Vire à <b>direita</b> na <b>R. C-137</b><div style=\"font-size:0.9em\">Passe por 1 rotatória</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "`e_eBpnxkHSsBGi@Gk@Gi@Ec@Gc@Ee@Ee@Gm@Ea@Gg@Eg@Gi@Gk@MsAMkA@??A@??A@??A?A?A?A?AA??AA??AA?A?A?YwCKaAK}@?EAEAC?AAEAEACAECECEACCE?ACCCCACIM"
+              },
+              "start_location": {
+                "lat": -16.7126543,
+                "lng": -49.2824942
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,4 km",
+                "value": 362
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 55
+              },
+              "end_location": {
+                "lat": -16.7095841,
+                "lng": -49.2738903
+              },
+              "html_instructions": "Na rotatória, continue em frente na <b>R. C-244</b>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "n}~dBniwkH?A@A@??A?A?A@A?A?A?AAA?A?AAAAAAAAAA?AAA?A?A?A?A?A?A@A?KMOW_@k@y@sAQ[S[gAiBwBmD"
+              },
+              "start_location": {
+                "lat": -16.7114369,
+                "lng": -49.27656
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1,3 km",
+                "value": 1282
+              },
+              "duration": {
+                "text": "4 minutos",
+                "value": 239
+              },
+              "end_location": {
+                "lat": -16.7026347,
+                "lng": -49.2642908
+              },
+              "html_instructions": "Continue para <b>Av. T-10</b><div style=\"font-size:0.9em\">Você verá UPTIME - Comunicação em Inglês (à esquerda em 450&nbsp;m)</div>",
+              "polyline": {
+                "points": "zq~dBxxvkHWa@Wa@w@mAw@mAOUsBmDEE_@o@i@}@m@cAACiAaBk@y@QWSY[i@EOKOU[e@q@GKq@cA]e@[e@QYSWOWQUEGCEYa@U[eA{AKQq@aAo@cAMSMSe@s@g@u@g@w@MO[a@]e@]g@IOIOMS"
+              },
+              "start_location": {
+                "lat": -16.7095841,
+                "lng": -49.2738903
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "59 m",
+                "value": 59
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 11
+              },
+              "end_location": {
+                "lat": -16.7022112,
+                "lng": -49.2641637
+              },
+              "html_instructions": "Vire à <b>esquerda</b> na <b>Av. 85</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "lf}dBx|tkHC[O@e@?Y?"
+              },
+              "start_location": {
+                "lat": -16.7026347,
+                "lng": -49.2642908
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,2 km",
+                "value": 191
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 26
+              },
+              "end_location": {
+                "lat": -16.7005859,
+                "lng": -49.263613
+              },
+              "html_instructions": "Curva suave à <b>direita</b> na <b>Praça Tiradentes</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "xc}dB~{tkH{@Iy@IoA_@eA]w@["
+              },
+              "start_location": {
+                "lat": -16.7022112,
+                "lng": -49.2641637
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1,3 km",
+                "value": 1267
+              },
+              "duration": {
+                "text": "3 minutos",
+                "value": 160
+              },
+              "end_location": {
+                "lat": -16.6977567,
+                "lng": -49.2527462
+              },
+              "html_instructions": "Continue para <b>Av. 136</b><div style=\"font-size:0.9em\">Você verá Via Condotti (à direita em 400&nbsp;m)</div>",
+              "polyline": {
+                "points": "ty|dBpxtkHkAq@q@i@SQGIGEIMGGEEEGEGGIEGEGEGEGEIEGEIEIEICIEGEICGEKCGQk@IYOq@Ie@Gi@K}@K{@QgAq@sEKu@CSc@_D_AyGOiAGc@Ic@Ge@EYGYCQAEEYUcB?AAEAKAK?GAG?I?I?IAI?I?K@K?M?I@O@S@K@O@I?E@E@E@E@C@E@E@EBEBE@EBEBC@EDEBCBEBCBCBCBE@ADEBADC"
+              },
+              "start_location": {
+                "lat": -16.7005859,
+                "lng": -49.263613
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2,0 km",
+                "value": 1955
+              },
+              "duration": {
+                "text": "4 minutos",
+                "value": 238
+              },
+              "end_location": {
+                "lat": -16.7070124,
+                "lng": -49.2376048
+              },
+              "html_instructions": "Na rotatória, pegue a <b>1ª</b> saída para a <b>Av. Dep. Jamel Cecílio</b> em direção a <b>Flamboyant</b>/<wbr/><b>Autodromo</b>/<wbr/><b>Bela Vista</b><div style=\"font-size:0.9em\">Você verá Versatto Interiores (à direita em 800&nbsp;m)</div><div style=\"font-size:0.9em\">O destino estará à direita</div>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "~g|dBttrkH@ABA@C@ABA@A@C@A@C@CBC?C@E@C@C?C@C?C@C?C?C?C?CAC?A?AAA?A?AAA?AAACG?AAAACACAAAAGe@AGAE?G?C?I?C?E?I?E@E@G?G@E@CTuAPkABMDOBQBMFSBOFUFQDOBIDKDODMJYFOHQHQFOHOHQJSFOJOJSJQLSHKJO~@wAHMHKj@{@j@}@JOLQHO\\g@jAeBh@y@j@{@p@cArAqBJOt@iAT]^i@`@k@^k@NW@ETYPYV]P[^m@b@o@LQZe@BE^g@DGFIDIh@w@f@w@\\g@^i@JQFGp@gAr@eAHKFK\\e@Zg@h@{@Zg@HMHKBEf@u@T]nAsB"
+              },
+              "start_location": {
+                "lat": -16.6977567,
+                "lng": -49.2527462
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        },
+        {
+          "distance": {
+            "text": "2,7 km",
+            "value": 2667
+          },
+          "duration": {
+            "text": "6 minutos",
+            "value": 388
+          },
+          "end_address": "Av. 136, 761 - St. Sul, Goiânia - GO, 74093-250, Brasil",
+          "end_location": {
+            "lat": -16.6974827,
+            "lng": -49.2556273
+          },
+          "start_address": "Av. Dep. Jamel Cecílio, 3300 - Jardim Goiás, Goiânia - GO, 74810-907, Brasil",
+          "start_location": {
+            "lat": -16.7070124,
+            "lng": -49.2376048
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "2 m",
+                "value": 2
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 0
+              },
+              "end_location": {
+                "lat": -16.7070227,
+                "lng": -49.23759
+              },
+              "html_instructions": "Siga na direção <b>sudeste</b> na <b>Av. Dep. Jamel Cecílio</b> em direção à <b>Jardim Goiás Alameda das Paineiras</b>",
+              "polyline": {
+                "points": "xa~dB~uokH@A"
+              },
+              "start_location": {
+                "lat": -16.7070124,
+                "lng": -49.2376048
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,2 km",
+                "value": 161
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 24
+              },
+              "end_location": {
+                "lat": -16.708439,
+                "lng": -49.237393
+              },
+              "html_instructions": "Vire à <b>direita</b> na <b>Jardim Goiás Alameda das Paineiras</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "za~dB|uokHj@Eh@E^Cv@Cb@Cb@@JCB?DA@ADA@CDA?A"
+              },
+              "start_location": {
+                "lat": -16.7070227,
+                "lng": -49.23759
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 148
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 41
+              },
+              "end_location": {
+                "lat": -16.7072908,
+                "lng": -49.2372052
+              },
+              "html_instructions": "Faça um <b>retorno</b>",
+              "maneuver": "uturn-left",
+              "polyline": {
+                "points": "vj~dBttokHEEACCCGEA?EAAAIEGHIDKDMBgAHM@IAIAEAECEEEGCEKM"
+              },
+              "start_location": {
+                "lat": -16.708439,
+                "lng": -49.237393
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2,0 km",
+                "value": 1955
+              },
+              "duration": {
+                "text": "4 minutos",
+                "value": 269
+              },
+              "end_location": {
+                "lat": -16.6973644,
+                "lng": -49.2520193
+              },
+              "html_instructions": "Vire à <b>esquerda</b> depois de McDonald's (à direita)<div style=\"font-size:0.9em\">Você verá Serta Store Colchões (à direita em 1,9&nbsp;km)</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "pc~dBpsokHIIIIGJ_AxAwAvBWl@A@KNINOVQVmBnCc@t@a@t@INm@|@KNGH}A|B_ArAOTo@z@GJGJSZu@fA]h@[d@ABORMPSXSZOROTCDEFCDEDYb@KRo@~@EHKNKN_@j@a@l@_@h@OPILKLEHEH]f@Sb@QPWd@g@v@EFKLIJMRMR[b@GHm@|@INKNcA|AIJGHKNILMRMVKPMVGLKTIPIRKVO^GPGNENGNENCNEPENERCJCLEPCP_@bCCJAHCFCHUd@INQ\\OT"
+              },
+              "start_location": {
+                "lat": -16.7072908,
+                "lng": -49.2372052
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,4 km",
+                "value": 401
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 54
+              },
+              "end_location": {
+                "lat": -16.6974827,
+                "lng": -49.2556273
+              },
+              "html_instructions": "Na rotatória, pegue a <b>2ª</b> saída para a <b>Av. 136</b><div style=\"font-size:0.9em\">Você verá Villa Motorsports Goiânia (à direita)</div><div style=\"font-size:0.9em\">O destino estará à direita</div>",
+              "maneuver": "roundabout-right",
+              "polyline": {
+                "points": "ne|dBbprkHA@C@C@A@A@A@A@ABC@ABCBABABABABADAB?B?B?B?D?B?B?B?B@B?B@B?B@@?@@B@B@@H^@H@D?B?B@F?F?D?F?F?FADAFE\\ANC`@Cd@Ah@?T@ZBZBV?@@N@F@FPjAPpA@@BP@L"
+              },
+              "start_location": {
+                "lat": -16.6973644,
+                "lng": -49.2520193
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "jp_eBfgxkH|De@DZT`CsANgD`@w@HiEf@eALSsBOuAMmA[}C[{Cc@kE@A@A@CAECCA?A?s@cHQg@IOOWDKEMKEG?A@MM{BsDkFuIwCsEcEaHo@gAuB{Ce@q@[i@EOa@k@m@}@}BiDuDmF_GaJeB_CS_@MSC[u@@Y?{@Iy@IoA_@}By@kAq@q@i@[[_@a@q@cAk@iAe@yAYwASgB]cC}@iGwBwOs@sEYwBCe@?wAL{ARm@^g@^[PWJa@?[IUGKMu@@u@p@iEn@kC|@aCf@eAj@eAnE{GtGyJ|GcKdDcFdD_FhEqG~DgGdBqCl@GdDQb@@JCHANIKOQIIEGHUJuALW?OCKI_@e@IIGJwCpEYn@U^a@n@mBnCc@t@k@dAy@lAuDpFsAnBcDzEaBbCmAlBmBrCk@v@c@p@Sb@QP_A|AQTaAvAmDjFq@jAk@lAm@|A[~@g@bCi@`Du@|AQVGBGFS\\Cb@DZNh@BV@\\C\\OtBA~@Dv@Fp@f@fDD^"
+      },
+      "summary": "Av. Dep. Jamel Cecílio",
+      "warnings": [],
+      "waypoint_order": [
+        0
+      ]
+    }
+  ]
+}

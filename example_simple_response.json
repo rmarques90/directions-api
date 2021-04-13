@@ -1,0 +1,39 @@
+{
+  "message": "ok",
+  "data": {
+    "polylinePoints": "jp_eBfgxkH|De@DZT`CsANgD`@w@HiEf@eALSsBOuAMmA[}C[{Cc@kE@A@A@CAECCA?A?s@cHQg@IOOWDKEMKEG?A@MM{BsDkFuIwCsEcEaHo@gAuB{Ce@q@[i@EOa@k@m@}@}BiDuDmF_GaJeB_CS_@MSC[u@@Y?{@Iy@IoA_@}By@kAq@q@i@[[_@a@q@cAk@iAe@yAYwASgB]cC}@iGwBwOs@sEYwBCe@?wAL{ARm@^g@^[PWJa@?[IUGKMu@@u@p@iEn@kC|@aCf@eAj@eAnE{GtGyJ|GcKdDcFdD_FhEqG~DgGdBqCl@GdDQb@@JCHANIKOQIIEGHUJuALW?OCKI_@e@IIGJwCpEYn@U^a@n@mBnCc@t@k@dAy@lAuDpFsAnBcDzEaBbCmAlBmBrCk@v@c@p@Sb@QP_A|AQTaAvAmDjFq@jAk@lAm@|A[~@g@bCi@`Du@|AQVGBGFS\\Cb@DZNh@BV@\\C\\OtBA~@Dv@Fp@f@fDD^",
+    "legs": [
+      {
+        "start_address": "R. C-152, 201 - Jardim America, Goiânia - GO, 74275-120, Brasil",
+        "end_address": "Av. Dep. Jamel Cecílio, 3300 - Jardim Goiás, Goiânia - GO, 74810-907, Brasil",
+        "distance": 6292,
+        "duration": 926,
+        "steps": [
+          "Siga na direção <b>sul</b> na <b>R. C-152</b> em direção à <b>Av. T-63</b>",
+          "Vire à <b>direita</b> na <b>Av. T-63</b>",
+          "Vire à <b>direita</b> na <b>R. C-151</b>",
+          "Vire à <b>direita</b> na <b>R. C-137</b><div style=\"font-size:0.9em\">Passe por 1 rotatória</div>",
+          "Na rotatória, continue em frente na <b>R. C-244</b>",
+          "Continue para <b>Av. T-10</b><div style=\"font-size:0.9em\">Você verá UPTIME - Comunicação em Inglês (à esquerda em 450&nbsp;m)</div>",
+          "Vire à <b>esquerda</b> na <b>Av. 85</b>",
+          "Curva suave à <b>direita</b> na <b>Praça Tiradentes</b>",
+          "Continue para <b>Av. 136</b><div style=\"font-size:0.9em\">Você verá Via Condotti (à direita em 400&nbsp;m)</div>",
+          "Na rotatória, pegue a <b>1ª</b> saída para a <b>Av. Dep. Jamel Cecílio</b> em direção a <b>Flamboyant</b>/<wbr/><b>Autodromo</b>/<wbr/><b>Bela Vista</b><div style=\"font-size:0.9em\">Você verá Versatto Interiores (à direita em 800&nbsp;m)</div><div style=\"font-size:0.9em\">O destino estará à direita</div>"
+        ]
+      },
+      {
+        "start_address": "Av. Dep. Jamel Cecílio, 3300 - Jardim Goiás, Goiânia - GO, 74810-907, Brasil",
+        "end_address": "Av. 136, 761 - St. Sul, Goiânia - GO, 74093-250, Brasil",
+        "distance": 2667,
+        "duration": 388,
+        "steps": [
+          "Siga na direção <b>sudeste</b> na <b>Av. Dep. Jamel Cecílio</b> em direção à <b>Jardim Goiás Alameda das Paineiras</b>",
+          "Vire à <b>direita</b> na <b>Jardim Goiás Alameda das Paineiras</b>",
+          "Faça um <b>retorno</b>",
+          "Vire à <b>esquerda</b> depois de McDonald's (à direita)<div style=\"font-size:0.9em\">Você verá Serta Store Colchões (à direita em 1,9&nbsp;km)</div>",
+          "Na rotatória, pegue a <b>2ª</b> saída para a <b>Av. 136</b><div style=\"font-size:0.9em\">Você verá Villa Motorsports Goiânia (à direita)</div><div style=\"font-size:0.9em\">O destino estará à direita</div>"
+        ]
+      }
+    ]
+  }
+}

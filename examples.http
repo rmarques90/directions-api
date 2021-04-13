@@ -1,0 +1,57 @@
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+  "login": "admin@admin.com",
+  "password": "123456"
+}
+
+###
+
+POST http://localhost:3000/admin/add-system
+Authorization: <admin token>
+Content-Type: application/json
+
+{
+  "name": "Sistema Teste",
+  "apiKey": "abc"
+}
+
+###
+
+PUT http://localhost:3000/admin/update-system-api-token
+Authorization: <admin token>
+Content-Type: application/json
+
+{
+  "systemName": "Sistema Teste",
+  "apiKey": "123"
+}
+
+###
+
+POST http://localhost:3000/system/add-user
+Authorization: <system token>
+Content-Type: application/json
+
+{
+  "name": "José",
+  "email": "jose@gmail.com"
+}
+
+###
+
+POST http://localhost:3000/directions/get-directions
+Authorization: <user token>
+Content-Type: application/json
+
+{
+  "origin": "Rua C-152, 201 - Jardim América - Goiânia/GO",
+  "destination": "Avenida 136, 761 - Setor Marista - Goiânia/GO",
+  "waypoints": [
+    "Shopping Flamboyant - Goiânia/GO",
+    "Shopping Passeio das Águas - Goiânia/GO"
+  ]
+}
+
+###
